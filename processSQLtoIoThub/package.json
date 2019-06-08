@@ -1,0 +1,17 @@
+{
+  "name": "sqlreader",
+  "version": "1.0.0",
+  "description": "Stream records from sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sree",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^5.1.0",
+    "azure-iot-device": "^1.2.2",
+    "azure-iot-device-amqp": "^1.2.3",
+    "azure-iot-device-mqtt": "^1.2.3"
+  }
+}
